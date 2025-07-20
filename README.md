@@ -27,6 +27,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
 
@@ -76,7 +77,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:mohamed@noonserv.com)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=vercel)](https://noonserv.com)
-[![Discord](https://img.shields.io/badge/-Website-black?style=flat-square&logo=discord)](https://discord.gg/XEHNf4UAst)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/XEHNf4UAst)
 
 ---
 
