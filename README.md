@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Next.js+%2B+Tailwind+CSS+Lover;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%2B+Tailwind+CSS+Lover;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
