@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neo</h1>
-<h3 align="center">A passionate full-stack developer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+Specialist;Building+Scalable+and+Modern+Web+Apps;Focus+on+Clean+Code+%26+UI%2FUX;Working+with+Prisma%2C+TailwindCSS%2C+MUI;Always+Exploring+Better+Dev+Tools" alt="Typing SVG" />
