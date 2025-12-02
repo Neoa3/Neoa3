@@ -58,16 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neoa3&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoa3&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - ✅ Built multiple production-ready web apps using modern stacks (Next.js, SQL, REST).
